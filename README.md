@@ -218,7 +218,8 @@ feat[#2] : add topological sort with image
 │ &nbsp;  &nbsp;  &nbsp; ├─ 📁 순열 (Permutation)         
 │ &nbsp;  &nbsp;  &nbsp; └─ 📁 중복 순열 (Permutation with Repetition)         
 ├─ 📁 [구현 (Implementation)](https://github.com/fsm12/Algorithm-Study/tree/main/Implementation)         
-│ &nbsp;  &nbsp;  &nbsp; ├─ 📁 DFS-BFS         
+│ &nbsp;  &nbsp;  &nbsp; ├─ 📁 DFS (Depth First Search)         
+│ &nbsp;  &nbsp;  &nbsp; ├─ 📁 BFS (Breadth First Search)
 │ &nbsp;  &nbsp;  &nbsp; ├─ 📁 브루트 포스 (Brute Force)         
 │ &nbsp;  &nbsp;  &nbsp; └─ 📁 백트래킹 (Backtracking)         
 ├─ 📁 [알고리즘 (Algorithm)](https://github.com/fsm12/Algorithm-Study/tree/main/Algorithm)         
